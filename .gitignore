@@ -5,3 +5,7 @@ __pycache__/
 /chapter-09-kubernetes/clothing-model/
 /chapter-09-kubeflow/clothing-model/
 *.tflite
+.DS_Store
+.vscode
+.venv
+venv
