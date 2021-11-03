@@ -1,5 +1,9 @@
 # Midterm Project
 
+Titanic - Machine Learning from Disaster.
+
+I grab dataset from https://www.kaggle.com/c/titanic/code.
+
 ## Prerequisites
 
 - Python 3
